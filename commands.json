@@ -18,7 +18,8 @@
     "clear D7",
     "flag A7",
     "clear A8",
-    "clear D3"
+    "clear D3",
+    "clear C10"
     ]
 
 }
